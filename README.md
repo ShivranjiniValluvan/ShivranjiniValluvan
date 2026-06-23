@@ -1,16 +1,40 @@
-## Hi there 👋
+### Hi, I'm Shivranjini Valluvan👋
 
-<!--
-**ShivranjiniValluvan/ShivranjiniValluvan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👤 About me
 
-Here are some ideas to get you started:
+I am an undergraduate student currently pursuing a B.Sc. in Data Science at the University of Mumbai, with a growing interest in how data can drive smarter, real-world decisions. I learn best by building — most of what I know has come from working on real datasets and figuring things out hands-on.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## ✨ Interests & goals
+
+- 📈 Data science, analytics, and machine learning
+- 🧠 Extracting meaningful insights from complex, messy datasets
+- 🤖 Building intelligent systems and predictive models
+- 🌍 Applying data for real-world impact — business, accessibility, public good
+- 🎯 Growing into a role where data shapes decisions that matter
+
+---
+
+## 🛠️ Tech stack
+
+**Languages** · `Python` `SQL`
+
+**Data & ML** · `Pandas` `NumPy` `Matplotlib` `Seaborn` `Plotly` `scikit-learn`
+
+**Web & apps** · `Flask` `CustomTkinter`
+
+**Databases** · `SQL Server` `MySQL`
+
+**Tools** · `Power BI` `Excel` `Git` `SSMS`
+
+---
+
+## 📈 GitHub stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShivranjiniValluvan&show_icons=true&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShivranjiniValluvan&layout=compact&hide_border=true)
+
+
+> *"Without data, you're just another person with an opinion."*
+> — W. Edwards Deming
