@@ -2,7 +2,7 @@
 
 ## 👤 About me
 
-I am an undergraduate student currently pursuing a B.Sc. in Data Science at the University of Mumbai, with a growing interest in how data can drive smarter, real-world decisions. I learn best by building — most of what I know has come from working on real datasets and figuring things out hands-on.
+I am an undergraduate student currently pursuing a B.Sc. in Data Science, with a growing interest in how data can drive smarter, real-world decisions. I learn best by building — most of what I know has come from working on real datasets and figuring things out hands-on.
 
 ---
 
